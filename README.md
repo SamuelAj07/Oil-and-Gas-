@@ -30,7 +30,7 @@ The work focuses on understanding how oil and gas markets have evolved over time
 The project translates complex, multi-decade energy data into clear analytical insights that support strategic decision-making in energy economics, policy planning, and investment analysis. 
 
 
-## Data Sources
+## 🧩Data Sources
 
 The primary dataset used for this analysis  was sourced from “Kaggle.com”
 
@@ -49,9 +49,9 @@ In the initial data cleaning phase, the following tasks were performed:
 
 ## 🧾Data Overview 
 
- Geographic Coverage: 187 countries
+ 🔹Geographic Coverage: 187 countries
  
- Time Span: 1932–2014
+ 🔹Time Span: 1932–2014
  
 The dataset includes the following columns:
 
@@ -62,10 +62,14 @@ A brief overview of raw tabular datasets to be analyzed. The first 5 Columns are
 ## 🎯Objective
 
 ·  Analyze oil and gas production trends across countries
-·  ·  Compare export values and prices over time
-·  ·  Identify top oil and gas exporting countries
-·  ·  Evaluate per-capita export value to understand real economic impact
-·  ·  Deliver actionable insights using data visualization and storytelling
+
+·   Compare export values and prices over time
+
+·   Identify top oil and gas exporting countries
+
+·   Evaluate per-capita export value to understand real economic impact
+
+·   Deliver actionable insights using data visualization and storytelling
 
 ## 🎨Analysis Visualization
 
