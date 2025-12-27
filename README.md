@@ -18,7 +18,7 @@
 
 [Analysis Visualization](#analysis-visualization)
 
-[Insights](#insights)
+[Key Insights](#key-insights)
 
 [Actionable Recommendations](#actionable-recommendations)
 
