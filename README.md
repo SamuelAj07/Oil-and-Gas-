@@ -1,4 +1,4 @@
-# Oil-and-Gas
+# Global-Oil-and-Gas-Analysis
 
 # Table of Content
 
@@ -25,19 +25,27 @@
 
 ## Project Overview
 
+This project presents a structured analysis of global oil and gas production, pricing, and export values across 187 countries over the period 1932–2014. The analysis was carried out to evaluate long-term energy trends, export value concentration, and population-adjusted economic impact.
+The work focuses on understanding how oil and gas markets have evolved over time, identifying countries that dominate global exports, and assessing the relationship between energy value and national population size. 
+The project translates complex, multi-decade energy data into clear analytical insights that support strategic decision-making in energy economics, policy planning, and investment analysis. 
+
+
 ## Data Sources
 
 The primary dataset used for this analysis  was sourced from “Kaggle.com”
 
 
-## Tools Used
+## Tools and Technologies
 
-1. Excel (Cross tab, Pivot Charts, Data Cleaning)
-   
-2. PowerBi (DAX, KPIs, Interactive Visuals)
+Power BI – Data modeling, visualization, and interactive dashboards
+
+Excel – Data cleaning, transformation, and validation
+
+DAX – Measures, aggregations, and calculated metrics
 
 ## Data Preparation
 
+In the initial data cleaning phase, the following tasks were performed:
 
 ## Data Overview 
 
@@ -47,8 +55,13 @@ The primary dataset used for this analysis  was sourced from “Kaggle.com”
 
 A brief overview of raw tabular datasets to be analyzed. The first 5 Columns are displayed below.
 
-## 🔍Exploratory Data Analysis
+## 🔍Objective
 
+·  Analyze oil and gas production trends across countries
+·  ·  Compare export values and prices over time
+·  ·  Identify top oil and gas exporting countries
+·  ·  Evaluate per-capita export value to understand real economic impact
+·  ·  Deliver actionable insights using data visualization and storytelling
 
 ## Analysis Visualization
 
