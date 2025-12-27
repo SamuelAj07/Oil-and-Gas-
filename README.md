@@ -1,6 +1,6 @@
-# Global-Oil-and-Gas-Analysis
+# 🌍Global-Oil-and-Gas-Analysis
 
-# Table of Content
+# 📚Table of Content
 
 [Project Overview](#project-overview)
 
@@ -23,7 +23,7 @@
 [Actionable Recommendations](#actionable-recommendations)
 
 
-## Project Overview
+## 📌Project Overview
 
 This project presents a structured analysis of global oil and gas production, pricing, and export values across 187 countries over the period 1932–2014. The analysis was carried out to evaluate long-term energy trends, export value concentration, and population-adjusted economic impact.
 The work focuses on understanding how oil and gas markets have evolved over time, identifying countries that dominate global exports, and assessing the relationship between energy value and national population size. 
@@ -35,7 +35,7 @@ The project translates complex, multi-decade energy data into clear analytical i
 The primary dataset used for this analysis  was sourced from “Kaggle.com”
 
 
-## Tools and Technologies
+## 🛠Tools and Technologies
 
 Power BI – Data modeling, visualization, and interactive dashboards
 
@@ -43,19 +43,19 @@ Excel – Data cleaning, transformation, and validation
 
 DAX – Measures, aggregations, and calculated metrics
 
-## Data Preparation
+## ⚙🧹Data Preparation
 
 In the initial data cleaning phase, the following tasks were performed:
 
-## Data Overview 
+## 🧾Data Overview 
 
+The dataset includes the following columns:
 
 ## Tabular Overview 
 
-
 A brief overview of raw tabular datasets to be analyzed. The first 5 Columns are displayed below.
 
-## 🔍Objective
+## 🎯Objective
 
 ·  Analyze oil and gas production trends across countries
 ·  ·  Compare export values and prices over time
@@ -63,11 +63,22 @@ A brief overview of raw tabular datasets to be analyzed. The first 5 Columns are
 ·  ·  Evaluate per-capita export value to understand real economic impact
 ·  ·  Deliver actionable insights using data visualization and storytelling
 
-## Analysis Visualization
+## 🎨Analysis Visualization
 
 Chart Analysis 
 
 
-## Insights
+## 📈Key Insights
 
-## Actionable Recommendations
+### EXCEL ###
+
+### POWER-BI ###
+
+
+## 💰Actionable Recommendations
+
+### EXCEL
+
+### POWERBI
+
+💻 📊
