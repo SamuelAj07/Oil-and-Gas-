@@ -49,6 +49,10 @@ In the initial data cleaning phase, the following tasks were performed:
 
 ## 🧾Data Overview 
 
+ Geographic Coverage: 187 countries
+ 
+ Time Span: 1932–2014
+ 
 The dataset includes the following columns:
 
 ## Tabular Overview 
