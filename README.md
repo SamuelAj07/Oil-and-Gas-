@@ -37,11 +37,11 @@ The primary dataset used for this analysis  was sourced from “Kaggle.com”
 
 ## 🛠Tools and Technologies
 
-Power BI – Data modeling, visualization, and interactive dashboards
+1. Power BI – Data modeling, visualization, and interactive dashboards
 
-Excel – Data cleaning, transformation, and validation
+2. Excel – Data cleaning, transformation, and validation
 
-DAX – Measures, aggregations, and calculated metrics
+3. DAX – Measures, aggregations, and calculated metrics
 
 ## ⚙🧹Data Preparation
 
@@ -79,6 +79,80 @@ Chart Analysis
 ## 📈Key Insights
 
 ### EXCEL ###
+
+1. Average Oil Production by Year
+   
+*Key Insights*:
+
+◻ There is a strong long-term upward trend in average oil production, indicating sustained growth in oil extraction over the years.
+
+◻Production accelerated significantly after the early years, suggesting major discoveries, technological improvements, or increased investment.
+
+◻In recent years, oil production appears to plateau, implying possible market maturity, production caps, or regulatory constraints.
+
+
+2. Average Gas Production by Year
+   
+*Key Insights*:
+
+◻Gas production shows a gradual increase initially, followed by a steeper growth phase, reflecting rising global demand for natural gas.
+
+◻Short-term fluctuations indicate market sensitivity, likely influenced by price volatility, infrastructure expansion, or geopolitical factors.
+
+◻Overall trend confirms gas as a growing complementary energy source to oil.
+
+
+3. Standard Deviation of Oil Prices (Base Year 2000)
+   
+*Key Insights*:
+
+◻Oil price volatility remains relatively low and stable in earlier years.
+
+◻Sharp spikes in standard deviation during certain periods indicate high market instability, often linked to:
+Global economic crises
+Supply shocks
+Geopolitical conflicts
+
+◻Recent spikes suggest that oil prices have become increasingly unpredictable, increasing financial risk for producers and exporters.
+
+
+4. Top 10 Net Oil Export Value Revenue by Country
+   
+*Key Insights*:
+
+◻Saudi Arabia dominates global oil export revenue, confirming its position as a leading oil exporter.
+
+◻Russia and Iran follow closely, highlighting their strong dependence on oil exports for national revenue.
+
+◻Countries like Nigeria, UAE, and Norway show substantial earnings, indicating oil remains a major contributor to their economies.
+
+◻Revenue concentration among few countries suggests global oil supply is highly centralized.
+
+
+5. Top 10 Gas Export Value Revenue by Country
+   
+*Key Insights*:
+
+◻Russia leads gas export revenues by a wide margin, reinforcing its influence in the global gas market.
+
+◻Canada and Norway are strong secondary exporters, reflecting advanced gas infrastructure and export capacity.
+
+◻Countries such as Qatar and Australia highlight the growing importance of LNG (Liquefied Natural Gas) exports.
+
+◻Gas export revenue is more geographically diversified compared to oil.
+
+
+6. Top 10 Net Oil & Gas Exports Value per Population (Average)
+   
+*Key Insights*:
+
+◻Qatar and Brunei rank highest, indicating extremely high export revenue relative to population size.
+
+◻Smaller nations with large reserves show higher per-capita benefits from oil and gas exports.
+
+◻Larger countries like Saudi Arabia generate high absolute revenue but lower per-capita values due to population size.
+
+◻This highlights how oil and gas wealth can have disproportionate economic impact in smaller economies.
 
 ### POWER-BI ###
 
