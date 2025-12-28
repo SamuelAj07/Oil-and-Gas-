@@ -82,7 +82,7 @@ Chart Analysis
 
 1. Average Oil Production by Year
    
-*Key Insights*:
+*Insights*:
 
 ◻ There is a strong long-term upward trend in average oil production, indicating sustained growth in oil extraction over the years.
 
@@ -93,7 +93,7 @@ Chart Analysis
 
 2. Average Gas Production by Year
    
-*Key Insights*:
+*Insights*:
 
 ◻Gas production shows a gradual increase initially, followed by a steeper growth phase, reflecting rising global demand for natural gas.
 
@@ -104,7 +104,7 @@ Chart Analysis
 
 3. Standard Deviation of Oil Prices (Base Year 2000)
    
-*Key Insights*:
+*Insights*:
 
 ◻Oil price volatility remains relatively low and stable in earlier years.
 
@@ -118,7 +118,7 @@ Geopolitical conflicts
 
 4. Top 10 Net Oil Export Value Revenue by Country
    
-*Key Insights*:
+*Insights*:
 
 ◻Saudi Arabia dominates global oil export revenue, confirming its position as a leading oil exporter.
 
@@ -131,7 +131,7 @@ Geopolitical conflicts
 
 5. Top 10 Gas Export Value Revenue by Country
    
-*Key Insights*:
+*Insights*:
 
 ◻Russia leads gas export revenues by a wide margin, reinforcing its influence in the global gas market.
 
@@ -144,7 +144,7 @@ Geopolitical conflicts
 
 6. Top 10 Net Oil & Gas Exports Value per Population (Average)
    
-*Key Insights*:
+*Insights*:
 
 ◻Qatar and Brunei rank highest, indicating extremely high export revenue relative to population size.
 
