@@ -56,6 +56,115 @@ In the initial data cleaning phase, the following tasks were performed:
  
 The dataset includes the following columns:
 
+**Country** 
+
+Country_Name – Official country name
+
+ISO3 Numeric – ISO numeric country code
+
+Country_id – Internal country identifier
+
+Year – Year of observation
+
+EIA_cty_name – Country name as used by the EIA
+
+
+**Oil Metrics**
+
+Oil_prod32_14 – Oil production volume
+
+O il_price_2000 – Oil price indexed to year 2000
+
+oil_price_nom – Nominal oil price
+
+oil_value_nom – Nominal oil production value
+
+oil_value_2000 – Oil production value (2000 constant prices)
+
+oil_value_2014 – Oil production value (2014 constant prices)
+
+
+**Gas Metrics**
+
+gas_prod55_14 – Gas production volume
+
+gas_price_2000_mboe – Gas price per barrel equivalent (2000 prices)
+
+gas_price_2000 – Gas price indexed to year 2000
+
+gas_price_nom – Nominal gas price
+
+gas_value_nom – Nominal gas production value
+
+gas_value_2000 – Gas production value (2000 constant prices)
+
+gas_value_2014 – Gas production value (2014 constant prices)
+
+
+**Combined Oil & Gas Value**
+
+oil_gas_value_nom – Nominal oil and gas value
+
+oil_gas_value_2000 – Oil and gas value (2000 constant prices)
+
+oil_gas_value_2014 – Oil and gas value (2014 constant prices)
+
+Per-Capita Oil & Gas Value
+
+oil_gas_valuePOP_nom – Nominal oil and gas value per population
+
+oil_gas_valuePOP_2000 – Per-capita oil and gas value (2000 prices)
+
+oil_gas_valuePOP_2014 – Per-capita oil and gas value (2014 prices)
+
+
+**Oil Trade**
+
+oil_exports – Total oil exports
+
+net_oil_exports – Oil exports minus imports
+
+net_oil_exports_mt – Net oil exports (metric tonnes)
+
+net_oil_exports_value – Value of net oil exports
+
+net_oil_exports_valuePOP – Net oil export value per population
+
+
+**Gas Trade**
+
+gas_exports – Total gas exports
+
+net_gas_exports_bcf – Net gas exports (billion cubic feet)
+
+net_gas_exports_mboe – Net gas exports (barrel oil equivalent)
+
+net_gas_exports_value – Value of net gas exports
+
+net_gas_exports_valuePOP – Net gas export value per population
+
+
+**Combined Trade & Demographics**
+
+net_oil_gas_exports_valuePOP – Net oil & gas export value per population
+
+population – Total population
+
+pop_maddison – Population estimate (Maddison Project)
+
+
+**Metadata & Conversions**
+
+sovereign – Sovereign state indicator
+
+mult_nom_2000 – Nominal-to-2000 price conversion factor
+
+mult_nom_2014 – Nominal-to-2014 price conversion factor
+
+mult_2000_2014 – Price conversion factor (2000 to 2014)
+
+
+
 ## Tabular Overview 
 
 A brief overview of raw tabular datasets to be analyzed. The first 5 Columns are displayed below.
