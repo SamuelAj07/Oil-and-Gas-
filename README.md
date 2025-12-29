@@ -56,112 +56,113 @@ In the initial data cleaning phase, the following tasks were performed:
  
 The dataset includes the following columns:
 
-**Country** 
+**🟥Country** 
 
-Country_Name – Official country name
+🔹Country_Name – Official country name
 
-ISO3 Numeric – ISO numeric country code
+🔹ISO3 Numeric – ISO numeric country code
 
-Country_id – Internal country identifier
+🔹Country_id – Internal country identifier
 
-Year – Year of observation
+🔹Year – Year of observation
 
-EIA_cty_name – Country name as used by the EIA
-
-
-**Oil Metrics**
-
-Oil_prod32_14 – Oil production volume
-
-O il_price_2000 – Oil price indexed to year 2000
-
-oil_price_nom – Nominal oil price
-
-oil_value_nom – Nominal oil production value
-
-oil_value_2000 – Oil production value (2000 constant prices)
-
-oil_value_2014 – Oil production value (2014 constant prices)
+🔹EIA_cty_name – Country name as used by the EIA
 
 
-**Gas Metrics**
+**🟧Oil Metrics**
 
-gas_prod55_14 – Gas production volume
+🔹Oil_prod32_14 – Oil production volume
 
-gas_price_2000_mboe – Gas price per barrel equivalent (2000 prices)
+🔹O il_price_2000 – Oil price indexed to year 2000
 
-gas_price_2000 – Gas price indexed to year 2000
+🔹Oil_price_nom – Nominal oil price
 
-gas_price_nom – Nominal gas price
+🔹oil_value_nom – Nominal oil production value
 
-gas_value_nom – Nominal gas production value
+🔹oil_value_2000 – Oil production value (2000 constant prices)
 
-gas_value_2000 – Gas production value (2000 constant prices)
-
-gas_value_2014 – Gas production value (2014 constant prices)
+🔹oil_value_2014 – Oil production value (2014 constant prices)
 
 
-**Combined Oil & Gas Value**
+**🟨Gas Metrics**
 
-oil_gas_value_nom – Nominal oil and gas value
+🔹gas_prod55_14 – Gas production volume
 
-oil_gas_value_2000 – Oil and gas value (2000 constant prices)
+🔹gas_price_2000_mboe – Gas price per barrel equivalent (2000 prices)
 
-oil_gas_value_2014 – Oil and gas value (2014 constant prices)
+🔹gas_price_2000 – Gas price indexed to year 2000
 
-Per-Capita Oil & Gas Value
+🔹gas_price_nom – Nominal gas price
 
-oil_gas_valuePOP_nom – Nominal oil and gas value per population
+🔹gas_value_nom – Nominal gas production value
 
-oil_gas_valuePOP_2000 – Per-capita oil and gas value (2000 prices)
+🔹gas_value_2000 – Gas production value (2000 constant prices)
 
-oil_gas_valuePOP_2014 – Per-capita oil and gas value (2014 prices)
-
-
-**Oil Trade**
-
-oil_exports – Total oil exports
-
-net_oil_exports – Oil exports minus imports
-
-net_oil_exports_mt – Net oil exports (metric tonnes)
-
-net_oil_exports_value – Value of net oil exports
-
-net_oil_exports_valuePOP – Net oil export value per population
+🔹gas_value_2014 – Gas production value (2014 constant prices)
 
 
-**Gas Trade**
+**🟩Combined Oil & Gas Value**
 
-gas_exports – Total gas exports
+🔹oil_gas_value_nom – Nominal oil and gas value
 
-net_gas_exports_bcf – Net gas exports (billion cubic feet)
+🔹oil_gas_value_2000 – Oil and gas value (2000 constant prices)
 
-net_gas_exports_mboe – Net gas exports (barrel oil equivalent)
-
-net_gas_exports_value – Value of net gas exports
-
-net_gas_exports_valuePOP – Net gas export value per population
+🔹oil_gas_value_2014 – Oil and gas value (2014 constant prices)
 
 
-**Combined Trade & Demographics**
+**🟦Per-Capita Oil & Gas Value**
 
-net_oil_gas_exports_valuePOP – Net oil & gas export value per population
+🔹oil_gas_valuePOP_nom – Nominal oil and gas value per population
 
-population – Total population
+🔹oil_gas_valuePOP_2000 – Per-capita oil and gas value (2000 prices)
 
-pop_maddison – Population estimate (Maddison Project)
+🔹oil_gas_valuePOP_2014 – Per-capita oil and gas value (2014 prices)
 
 
-**Metadata & Conversions**
+**🟪Oil Trade**
 
-sovereign – Sovereign state indicator
+🔹oil_exports – Total oil exports
 
-mult_nom_2000 – Nominal-to-2000 price conversion factor
+🔹net_oil_exports – Oil exports minus imports
 
-mult_nom_2014 – Nominal-to-2014 price conversion factor
+🔹net_oil_exports_mt – Net oil exports (metric tonnes)
 
-mult_2000_2014 – Price conversion factor (2000 to 2014)
+🔹net_oil_exports_value – Value of net oil exports
+
+🔹net_oil_exports_valuePOP – Net oil export value per population
+
+
+**🟫Gas Trade**
+
+🔹gas_exports – Total gas exports
+
+🔹net_gas_exports_bcf – Net gas exports (billion cubic feet)
+
+🔹net_gas_exports_mboe – Net gas exports (barrel oil equivalent)
+
+🔹net_gas_exports_value – Value of net gas exports
+
+🔹net_gas_exports_valuePOP – Net gas export value per population
+
+
+**⬛Combined Trade & Demographics**
+
+🔹net_oil_gas_exports_valuePOP – Net oil & gas export value per population
+
+🔹population – Total population
+
+🔹pop_maddison – Population estimate (Maddison Project)
+
+
+**⬜Metadata & Conversions**
+
+🔹sovereign – Sovereign state indicator
+
+🔹mult_nom_2000 – Nominal-to-2000 price conversion factor
+
+🔹mult_nom_2014 – Nominal-to-2014 price conversion factor
+
+🔹mult_2000_2014 – Price conversion factor (2000 to 2014)
 
 
 
@@ -276,16 +277,19 @@ Geopolitical conflicts
 1. Overall Data Coverage - REWRITE
    
 This dashboard analyzes oil and gas performance across 187 countries over a long historical period (1932–2014).
+
 This wide coverage allows us to see global patterns, not just trends in a few oil-rich nations.
 
 3. Average Oil Production
    
 Oil production is very high on average, clearly showing that oil has been the dominant energy resource globally for decades.
+
 Many countries have relied heavily on oil for energy supply and export revenue, making oil a major driver of national economies.
 
 4. Average Gas Production
    
 Gas production is lower than oil but still significant and steadily present across many countries.
+
 This suggests that gas has played a supporting and growing role, especially as countries diversify their energy mix.
 
 5. Oil & Gas Value vs Price (Year 2000)
@@ -351,7 +355,7 @@ Establish or strengthen stabilization and sovereign wealth funds to manage reven
 
 
 4. Optimize Production Efficiency
-
+
 Shift from production expansion to efficiency-driven optimization using advanced extraction technologies.
 
 Reduce operational costs through process automation and predictive maintenance.
@@ -386,19 +390,19 @@ Integrate forecasting models to support proactive decision-making.
 
 ### POWERBI
 
-Reduce over-reliance on crude oil by investing in downstream processing) and non-oil sectors to manage price volatility risks.
+◻Reduce over-reliance on crude oil by investing in downstream processing) and non-oil sectors to manage price volatility risks.
 
-Scale natural gas development by expanding LNG, processing, and pipeline infrastructure to capitalize on its steady growth and cleaner energy role.
+◻Scale natural gas development by expanding LNG, processing, and pipeline infrastructure to capitalize on its steady growth and cleaner energy role.
 
-Strengthen revenue risk management through price hedging, long-term supply contracts, and stabilization or sovereign wealth funds.
+◻Strengthen revenue risk management through price hedging, long-term supply contracts, and stabilization or sovereign wealth funds.
 
-Optimize production efficiency as oil output matures by focusing on cost reduction, automation, and advanced extraction technologies.
+◻Optimize production efficiency as oil output matures by focusing on cost reduction, automation, and advanced extraction technologies.
 
-Diversify export markets to reduce geopolitical exposure and improve long-term revenue stability.
+◻Diversify export markets to reduce geopolitical exposure and improve long-term revenue stability.
 
-Improve per-capita economic impact by reinvesting oil and gas revenues into education, infrastructure, and industrial development.
+◻Improve per-capita economic impact by reinvesting oil and gas revenues into education, infrastructure, and industrial development.
 
-Adopt continuous data monitoring and forecasting using BI tools to support proactive, data-driven energy policy decisions.
+◻Adopt continuous data monitoring and forecasting using BI tools to support proactive, data-driven energy policy decisions.
 
 
 💻 📊
