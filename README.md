@@ -217,6 +217,90 @@ This highlights that resource wealth impacts citizens differently, depending on 
 
 ### EXCEL
 
+1. Reduce Dependence on Crude Oil Revenue
+
+Diversify national income by investing in downstream oil activities such as refining and petrochemicals.
+
+
+Channel oil revenues into non-energy sectors to minimize exposure to oil price volatility.
+
+
+2. Prioritize Natural Gas as a Growth Driver
+
+Expand gas infrastructure including LNG terminals and processing facilities.
+
+
+Position natural gas as a transition fuel in long-term energy strategies.
+
+
+3. Mitigate Oil Price Volatility Risks
+
+Implement price hedging mechanisms and long-term supply contracts.
+
+
+Establish or strengthen stabilization and sovereign wealth funds to manage revenue shocks.
+
+
+4. Optimize Production Efficiency
+
+Shift from production expansion to efficiency-driven optimization using advanced extraction technologies.
+
+
+Reduce operational costs through process automation and predictive maintenance.
+
+
+5. Improve Per-Capita Economic Impact in Large Exporting Countries
+
+Reinvest export earnings into education, infrastructure, and industrial development.
+
+
+Promote domestic energy utilization to support job creation and economic growth.
+
+
+6. Diversify Energy Export Markets
+
+Expand exports to emerging and regional markets to reduce geopolitical risk.
+
+
+Develop long-term bilateral energy trade agreements.
+
+
+7. Ensure Long-Term Sustainability for High Per-Capita Exporters
+
+Invest surplus revenues into future-focused industries and sovereign wealth funds.
+
+
+Implement fiscal policies that reduce overdependence on energy exports.
+
+
+8. Adopt Continuous Data Monitoring and Forecasting
+
+Leverage analysis to track production trends, price volatility, and export performance.
+
+
+Integrate forecasting models to support proactive decision-making.
+
 ### POWERBI
+
+Reduce over-reliance on crude oil by investing in downstream processing) and non-oil sectors to manage price volatility risks.
+
+
+Scale natural gas development by expanding LNG, processing, and pipeline infrastructure to capitalize on its steady growth and cleaner energy role.
+
+
+Strengthen revenue risk management through price hedging, long-term supply contracts, and stabilization or sovereign wealth funds.
+
+
+Optimize production efficiency as oil output matures by focusing on cost reduction, automation, and advanced extraction technologies.
+
+
+Diversify export markets to reduce geopolitical exposure and improve long-term revenue stability.
+
+
+Improve per-capita economic impact by reinvesting oil and gas revenues into education, infrastructure, and industrial development.
+
+
+Adopt continuous data monitoring and forecasting using BI tools to support proactive, data-driven energy policy decisions.
+
 
 💻 📊
