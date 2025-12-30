@@ -6,7 +6,7 @@
 
 [Data Sources](#data-sources)
 
-[Tools Used](#tools-used)
+[Tools and Technologies](#tools-and-technologies)
 
 [Data Preparation](#data-preparation)
 
@@ -14,7 +14,7 @@
 
 [Tabular Overview](#tabular-overview) 
 
-[Exploratory Data Analysis](#exploratory-data-analysis)
+[Objective](#objective)
 
 [Analysis Visualization](#analysis-visualization)
 
@@ -172,6 +172,12 @@ A brief overview of raw tabular datasets to be analyzed. The first 5 Columns are
 
 Country_Name|	ISO3 Numeric|	Country_id|	Year|	EIA_cty_name|	Oil_prod32_14|	Oil_price_2000	|oil_price_nom|	oil_value_nom|	oil_value_2000|	oil_value_2014|	gas_prod55_14|	gas_price_2000_mboe|	gas_price_2000|	gas_price_nom|	gas_value_nom|	gas_value_2000|	gas_value_2014|	oil_gas_value_nom|	oil_gas_value_2000|	oil_gas_value_2014|	oil_gas_valuePOP_nom|	oil_gas_valuePOP_2000|	oil_gas_valuePOP_2014|	oil_exports|	net_oil_exports|	net_oil_exports_mt|	net_oil_exports_value|	net_oil_exports_valuePOP|	gas_exports|	net_gas_exports_bcf|	net_gas_exports_mboe|	net_gas_exports_value|	net_gas_exports_valuePOP|	net_oil_gas_exports_valuePOP|	population|	pop_maddison|	sovereign|	mult_nom_2000|	mult_nom_2014|	mult_2000_2014|
 |----|----|-----|----|----|----|----|-----|----|----|----|----|-----|----|----|----|----|-----|----|----|----|----|-----|----|----|----|----|-----|----|----|----|----|-----|----|----|----|----|-----|----|----|----|
+Afghanistan|	4	|AFG	|1932	|Afghanistan	|0	|10.86086|	0.87|	0	|0	|0	|0	|0	|	0.06|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	| |	|	1	|12.599874|	17.32197312|	1.374773519|
+Afghanistan|	4	|AFG	|1933|	Afghanistan|	0|	8.815239|	0.67|	0|	0|	0	|0	|0	|	0.06|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	| |	|		1	|13.280064	|18.25708032|	1.374773519|
+Afghanistan	|4	|AFG	|1934	|Afghanistan	|0|	12.71579|	1	|0	|0	|0	|0	|0	|	0.06	|		|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	| |		|1	|12.853008|	17.66997504|	1.374773519|
+Afghanistan	|4	|AFG	|1935	|Afghanistan	|0|	12.03969|	0.97|	0|	0|	0	|0	|0	|	0.06|		|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	| |	|	1|	12.537882|	17.23674816|	1.374773519|
+Afghanistan	|4	|AFG	|1936	|Afghanistan	|0	|13.38321	|1.09	|0	|0	|0	|0	|0	|	0.06|		|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	|	| |		|	1	|12.420786	|17.07576768|	1.374773519|
+
 
 
 
