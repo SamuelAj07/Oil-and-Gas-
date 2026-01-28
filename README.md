@@ -199,6 +199,11 @@ Afghanistan	|4	|AFG	|1936	|Afghanistan	|0	|13.38321	|1.09	|0	|0	|0	|0	|0	|	0.06|
 
 Chart Analysis 
 
+**EXCEL**
+
+<img width="1383" height="551" alt="Screenshot (528)" src="https://github.com/user-attachments/assets/7ea9c4db-4c34-4dc4-90dc-a89c74cda6ef" />
+
+
 
 ## 📈Key Insights
 
