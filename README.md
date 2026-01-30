@@ -40,7 +40,7 @@ The primary dataset used for this analysis  was sourced from “Kaggle.com”
 
 1. Power BI – Data modeling, visualization, and interactive dashboards
 
-2. Excel – Data cleaning, transformation, and validation
+2. Excel – [Data cleaning](https://ibb.co/vxXbKFWp), [transformation](https://ibb.co/6Rz57fjH) , and [analysis](https://ibb.co/TXND0jP)
 
 3. DAX – Measures, aggregations, and calculated metrics
 
