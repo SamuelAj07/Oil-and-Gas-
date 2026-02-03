@@ -204,6 +204,10 @@ Chart Analysis
 <img width="1383" height="551" alt="Screenshot (528)" src="https://github.com/user-attachments/assets/7ea9c4db-4c34-4dc4-90dc-a89c74cda6ef" />
 
 
+**POWERBI**
+
+<img width="1101" height="626" alt="Screenshot (536)" src="https://github.com/user-attachments/assets/f8b8a661-90ab-4053-8b08-154dbe8da120" />
+
 
 ## 📈Key Insights
 
